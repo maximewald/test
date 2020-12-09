@@ -4,3 +4,7 @@ i = 1
 while i <= 10:
   print(i)
   i += 1
+
+
+liste = { "Größe" : 1.60, "Gewicht" : 55}
+print(liste)
